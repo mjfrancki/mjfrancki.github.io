@@ -1,2 +1,9 @@
 # Dependencies
 markdown: redcarpet
+
+
+   #google analytics
+analytics: 
+   provider: google
+google:
+   tracking_id: UA-100487871-1
