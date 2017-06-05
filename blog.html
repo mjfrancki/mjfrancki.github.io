@@ -1,6 +1,15 @@
 ---
-layout: default
+layout: blog
 ---
 
-    <h1>Mikes Blog</h1>
-    <p>Not much here</p>
+    <h1>Crayon Typsets</h1>
+    <h2> General </h2>
+
+    <ul>
+      {% for blog in site.posts %}
+        <li>
+          <a href=""> {{blog.title}} </a>
+          <p> {{blog.meta}} </p>
+        </li>
+      {% endfor %}
+    </ul>
