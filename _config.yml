@@ -1,6 +1,8 @@
 # Dependencies
 markdown: redcarpet
 
+baseurl: /mfrancki.com
+
 
    #google analytics
 analytics: 
