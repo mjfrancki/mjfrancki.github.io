@@ -38,6 +38,7 @@
 html,
 body {
   overflow-x: hidden;
+  background-color: lightgray;
 }
 
 html {
@@ -49,6 +50,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
   color: #313131;
   letter-spacing: -.025rem;
+  text-align: center;
 }
 
 ul {
@@ -87,6 +89,19 @@ footer {
 }
 
 
+
+.headshot {
+
+  text-align: center;
+
+}
+
+.headshot img {
+  max-width: 33%;
+  height:auto;
+
+  border-radius: 90%;
+}
 
 
 /*
