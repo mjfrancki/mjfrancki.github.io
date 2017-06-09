@@ -53,6 +53,9 @@ footer {
 }
 
 
+a {
+   text-decoration: none;
+}
 
 .headshot {
 
@@ -69,8 +72,4 @@ footer {
 
 .social {
     text-align: center;
-}
-
-.social a {
-   text-decoration: none;
 }
