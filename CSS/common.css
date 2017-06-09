@@ -103,6 +103,10 @@ footer {
   border-radius: 90%;
 }
 
+.social {
+    text-align: center;
+}
+
 
 /*
  * Wrapper
@@ -601,6 +605,3 @@ a.pagination-item:hover {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
-
-
-
