@@ -9,6 +9,7 @@ body {
   margin: 0;
   width: 100%;
   height: 100%;
+  padding-top: 65px;
 }
 
 html {
@@ -28,9 +29,10 @@ h1, h2, h3, h4, h5, h6, p {
   color: #313131;
   letter-spacing: -.025rem;
   text-align: center;
+  height:auto;
 }
 
-ul {
+/*ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -50,10 +52,11 @@ li a {
     text-decoration: none;
 }
 
-/* Change the link color to #111 (black) on hover */
+
 li a:hover {
     background-color: #111;
 }
+*/
 
 footer {
   padding: 1rem;
