@@ -22,10 +22,12 @@ I have decided on a hand-drawn calligrahy styled font in a broad nib style, heav
 	*Draw
 	*Upload
 	*Initial edit
-	*Vectorive
+	*Vectorize
 	*Edit Vectors
 	*FontForge
 	*Validate
+
+  
 With your favourite writing instrument and paper create a letter. I use my pilot parallel 6.0mm
 
 Take a picture upload it, and if need you can do some initial editing. I use adobe lightroom to crop it to a square and turn up the contrast between the ink and paper.
