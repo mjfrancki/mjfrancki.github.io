@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="1024"
+   viewBox="0 0 1024 1024"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="c.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-88.74584"
+     inkscape:cy="616.73078"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1440"
+     inkscape:window-height="801"
+     inkscape:window-x="241"
+     inkscape:window-y="218"
+     inkscape:window-maximized="0"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-midpoints="true"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="822.85714,680"
+       orientation="0,1"
+       id="guide3404" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-28.362161)">
+    <path
+       style="fill:#000000"
+       d="m 521.11637,850.42768 c -48.68052,0.93877 -95.33065,-13.75263 -134.158,-37.22696 -30.08617,-22.14535 -57.80944,-47.38325 -80.17251,-74.87644 -20.9728,-24.29723 -40.70196,-51.31786 -54.82835,-79.61433 -25.95232,-45.25198 -37.50277,-95.56464 -38.13655,-145.43679 0.8977,-31.90946 7.62968,-64.00769 20.99546,-93.89149 15.91942,-22.61162 34.20517,-43.15015 59.81013,-58.6488 31.19839,-22.72233 63.38804,-44.6548 94.0361,-67.49337 21.49875,-11.80962 41.37816,-23.04278 62.81016,-34.80334 15.50503,-11.7046 35.33613,-21.21362 51.28087,-32.51695 26.92684,-13.70905 45.15036,23.53243 69.50552,31.38793 19.34701,14.04553 47.15738,20.44292 70.49768,24.1379 31.43211,5.69875 64.22524,5.62724 95.25565,0.39735 9.70712,-1.02381 31.91184,-8.98452 57.98484,-22.92071 25.26767,-18.93664 66.36095,-50.45998 58.41811,-33.3785 -17.9687,13.78406 -31.31842,25.39867 -67.83121,52.52798 -28.19379,17.51788 -48.80118,33.17328 -74.88031,50.97516 -25.78104,11.40896 -23.86267,13.80312 -48.02637,21.95891 -19.88211,7.16504 -48.08846,17.86278 -66.26703,15.27428 -17.2966,7.18981 -40.2146,2.55947 -59.54554,3.18139 -24.68003,-3.68382 -48.23421,-8.09559 -71.19445,-16.62367 -27.75576,-12.78697 -49.67391,-34.00674 -75.7561,-47.28649 -18.93606,10.47235 -31.34561,30.37389 -35.54311,49.58772 -15.88295,42.90909 -23.79496,90.13119 -10.9938,134.77173 5.7955,41.2094 27.95178,79.38561 50.53734,115.50696 26.44485,35.30704 55.10231,70.85213 93.82002,97.86647 15.66796,16.03224 40.37322,24.23648 61.86891,34.10494 13.78047,4.13318 29.2454,7.90672 44.99804,9.86968 33.02598,5.11551 65.88316,1.38305 98.56587,-3.16716 16.01315,-7.73508 38.1136,-12.78371 53.20518,-22.55414 21.04938,-11.10501 84.93289,-60.49364 102.47524,-74.5484 30.34154,-11.86511 -49.79307,54.58453 -60.82694,60.59041 -17.52551,13.61992 -35.68026,30.17196 -55.61527,42.05919 -20.51478,18.0301 -42.80573,31.00837 -64.1859,48.42489 -17.57047,8.48405 -29.33641,21.93704 -46.19827,29.49082 -22.66667,8.66679 -44.23738,20.59636 -69.51601,21.4644 -11.82754,0.22844 -20.0367,2.76333 -32.3894,1.40943 z"
+       id="path3382"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccc" />
+  </g>
+</svg>
