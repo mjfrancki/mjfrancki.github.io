@@ -9,7 +9,7 @@ category: calligraphy
 
 I'm designing a font. Mostly for fun and to compine two of my istrests computer science and calligraphy.
 
-<h2>Design<h2>
+<h1>Design<h1>
 I have decided on a hand-drawn calligrahy styled font in a broad nib style, heavily influnced on a Bastard Secretary script. For more information on the styles I'm using for influence I would recomend The Art of Calligraphy by David Harris a great refrence book      
 
 <h2>Software<h2>
