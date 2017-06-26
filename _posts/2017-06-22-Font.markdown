@@ -5,20 +5,20 @@ meta: My Font
 category: calligraphy
 ---
 
-<h1>Making a Font From Hand Drawn Letters<h1>
+<h1>Making a Font From Hand Drawn Letters</h1>
 
 I'm designing a font. Mostly for fun and to compine two of my istrests computer science and calligraphy.
 
-<h1>Design<h1>
+<h2>Design</h2>
 I have decided on a hand-drawn calligrahy styled font in a broad nib style, heavily influnced on a Bastard Secretary script. For more information on the styles I'm using for influence I would recomend The Art of Calligraphy by David Harris a great refrence book      
 
-<h2>Software<h2>
+<h2>Software</h2>
 
 [Inkapescape](https://inkscape.org/en/) free vector graphics editing software
 
 [FontForge](https://fontforge.github.io/en-US/) free and open-source font editor.
 
-<h2>Process<h2>
+<h2>Process</h2>
 	*Draw
 	*Upload
 	*Initial edit
