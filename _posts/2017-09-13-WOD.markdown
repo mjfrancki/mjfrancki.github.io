@@ -1,0 +1,41 @@
+---
+layout: blog
+title: Word of The Day
+meta: WOD
+category: calligraphy
+---
+
+<h1>Project Word of The Day</h1>
+
+<p>
+The idea behind this project is simple every day find, write and define a new word A to Z   
+</p>
+
+
+
+
+![assay](/assets/WODphotes/assay.jpg){:class="img-responsive"}
+![bosky](/assets/WODphotes/bosky.jpg){:class="img-responsive"}
+![commix](/assets/WODphotes/commix.jpg){:class="img-responsive"}
+![deixis](/assets/WODphotes/deixis.jpg){:class="img-responsive"}
+![erymon](/assets/WODphotes/erymon.jpg){:class="img-responsive"}
+![furacious](/assets/WODphotes/furacious.jpg){:class="img-responsive"}
+![gewgaw](/assets/WODphotes/gewgaw.jpg){:class="img-responsive"}
+![hapaxlegomenon](/assets/WODphotes/hapaxlegomenon.jpg){:class="img-responsive"}
+![imago](/assets/WODphotes/imago.jpg){:class="img-responsive"}
+![jingoism](/assets/WODphotes/jingoism.jpg){:class="img-responsive"}
+![kleptocray](/assets/WODphotes/kleptocray.jpg){:class="img-responsive"}
+![laicism](/assets/WODphotes/laicism.jpg){:class="img-responsive"}
+![monepic](/assets/WODphotes/monepic.jpg){:class="img-responsive"}
+![nowise](/assets/WODphotes/nowise.jpg){:class="img-responsive"}
+![oligosyllable](/assets/WODphotes/oligosyllable.jpg){:class="img-responsive"}
+![panarchy](/assets/WODphotes/panarchy.jpg){:class="img-responsive"}
+![quincunx](/assets/WODphotes/quincunx.jpg){:class="img-responsive"}
+![rannygazoo](/assets/WODphotes/rannygazoo.jpg){:class="img-responsive"}
+![sonder](/assets/WODphotes/sonder.jpg){:class="img-responsive"}
+![thalweg](/assets/WODphotes/assay.jpg){:class="img-responsive"}
+![uloid](/assets/WODphotes/uloid.jpg){:class="img-responsive"}
+![wyrd](/assets/WODphotes/wyrd.jpg){:class="img-responsive"}
+![xenagogue](/assets/WODphotes/xenagogue.jpg){:class="img-responsive"}
+![yipsiliform](/assets/WODphotes/yipsiliform.jpg){:class="img-responsive"}
+![zwischezug](/assets/WODphotes/zwischezug.jpg){:class="img-responsive"}
