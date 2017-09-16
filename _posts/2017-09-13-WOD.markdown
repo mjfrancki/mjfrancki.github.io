@@ -33,7 +33,7 @@ The idea behind this project is simple every day find, write and define a new wo
 ![quincunx](/assets/WODphotes/quincunx.jpg){:class="img-responsive"}
 ![rannygazoo](/assets/WODphotes/rannygazoo.jpg){:class="img-responsive"}
 ![sonder](/assets/WODphotes/sonder.jpg){:class="img-responsive"}
-![thalweg](/assets/WODphotes/assay.jpg){:class="img-responsive"}
+![thalweg](/assets/WODphotes/thalweg.jpg){:class="img-responsive"}
 ![uloid](/assets/WODphotes/uloid.jpg){:class="img-responsive"}
 ![wyrd](/assets/WODphotes/wyrd.jpg){:class="img-responsive"}
 ![xenagogue](/assets/WODphotes/xenagogue.jpg){:class="img-responsive"}
