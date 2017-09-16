@@ -57,6 +57,7 @@ The idea behind this project is simple every day find, write and define a new wo
     </div>
 
     <div class="row">
+        <div class="col-md-3 col-sm-4 col-xs-6"><img class="img-responsive" src="" /></div>
         <div class="col-md-3 col-sm-4 col-xs-6"><img class="img-responsive" src="/assets/WODphotes/ypsiliform.jpg" /></div>
         <div class="col-md-3 col-sm-4 col-xs-6"><img class="img-responsive" src="/assets/WODphotes/zwischezug.jpg" /></div>
 
