@@ -7,9 +7,9 @@ category: calligraphy
 
 <h1>Project Word of The Day</h1>
 
-<p>
+<h6>
 The idea behind this project is simple every day find, write and define a new word A to Z   
-</p>
+</h6>
 
 
 <div class="container">
